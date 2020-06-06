@@ -12,7 +12,7 @@ pacientes, registro de consultas e controle financeiro.
 
 ## Como executar
 
-Para executar basta clonar repositório, abrir o projeto na sua IDEA e executar o Main (ErpApplication.java)
+Para executar basta clonar repositório, ter o PostgresSQL na versão 9.4, criar um banco de dados com o nome "erppsicologo", abrir o projeto na sua IDEA definir a porta e a senha do seu postgreSQL no application.properties e executar o Main (ErpApplication.java).
 
 ## Contato 
 ---
